@@ -1,0 +1,16 @@
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\BankAccountTests.cs.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\BankAccountTests.cs.pdb
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\Castle.Core.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\Moq.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\nunit.framework.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\System.ValueTuple.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\Castle.Core.xml
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\Moq.pdb
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\Moq.xml
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\nunit.framework.pdb
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\nunit.framework.xml
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\dev\Learning\BankAccount\BankAccountTests.cs\bin\Debug\System.ValueTuple.xml
+C:\dev\Learning\BankAccount\BankAccountTests.cs\obj\Debug\BankAccountTests.cs.dll
+C:\dev\Learning\BankAccount\BankAccountTests.cs\obj\Debug\BankAccountTests.cs.pdb
